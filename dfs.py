@@ -1,6 +1,6 @@
 def dfs(root):
     """
-    Perform a depth-first search (DFS) traversal on a tree or graph starting from the given root node.
+    Perform a depth-first search (DFS) traversal on a tree starting from the given root node.
 
     Parameters:
     ----------
