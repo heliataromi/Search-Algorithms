@@ -1,7 +1,5 @@
 from collections import deque
 
-from tree import Tree
-
 def bfs(tree):
     """Perform a breadth-first search on the given tree."""
     root = tree.get_root()
