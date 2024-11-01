@@ -2,17 +2,17 @@ def dfs(root):
     """
     Perform a depth-first search (DFS) traversal on a tree starting from the given root node.
 
-    Parameters:
+    Parameters
     ----------
     root : Node
         The starting node of the DFS traversal.
 
-    Returns:
+    Returns
     -------
     list
         A list of nodes representing the order of traversal in DFS.
 
-    Notes:
+    Notes
     -----
     - This implementation uses recursion to traverse the tree or graph.
     - Each node is expected to be a unique object, allowing it to be tracked using a set.
